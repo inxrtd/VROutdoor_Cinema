@@ -36,7 +36,7 @@
 *.uxml                  text linguist-language=xml linguist-detectable
 
 # Unity YAML files
-*.terrain.asset 	binary
+New Terrain.asset 	binary
 *.anim                  unity-yaml
 *.asset                 unity-yaml
 *.brush                 unity-yaml
